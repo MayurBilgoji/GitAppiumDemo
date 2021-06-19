@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="288" started-at="2021-06-05T05:20:30Z" finished-at="2021-06-05T05:20:30Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="288" started-at="2021-06-05T05:20:30Z" finished-at="2021-06-05T05:20:30Z">
+      <class name="MayurMaven.MayursMavenProject.RestAPITest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:MayurMaven.MayursMavenProject.RestAPITest@3c0ecd4b]" name="deleteTwitter" duration-ms="5" started-at="2021-06-05T05:20:30Z" finished-at="2021-06-05T05:20:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:MayurMaven.MayursMavenProject.RestAPITest@3c0ecd4b]" name="postJira" duration-ms="4" started-at="2021-06-05T05:20:30Z" finished-at="2021-06-05T05:20:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- MayurMaven.MayursMavenProject.RestAPITest -->
+      <class name="MayurMaven.MayursMavenProject.SeleniumTest">
+        <test-method status="PASS" signature="browswerAutomation()[pri:0, instance:MayurMaven.MayursMavenProject.SeleniumTest@57fffcd7]" name="browswerAutomation" duration-ms="59" started-at="2021-06-05T05:20:30Z" finished-at="2021-06-05T05:20:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browswerAutomation -->
+        <test-method status="PASS" signature="elementUI()[pri:0, instance:MayurMaven.MayursMavenProject.SeleniumTest@57fffcd7]" name="elementUI" duration-ms="4" started-at="2021-06-05T05:20:30Z" finished-at="2021-06-05T05:20:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementUI -->
+      </class> <!-- MayurMaven.MayursMavenProject.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

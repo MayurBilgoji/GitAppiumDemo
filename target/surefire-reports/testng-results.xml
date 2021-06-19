@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="273" started-at="2021-05-24T12:45:50 IST" finished-at="2021-05-24T12:45:50 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="273" started-at="2021-05-24T12:45:50 IST" finished-at="2021-05-24T12:45:50 IST">
+      <class name="MayurMaven.MayursMavenProject.RestAPITest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:MayurMaven.MayursMavenProject.RestAPITest@1f554b06]" name="deleteTwitter" duration-ms="2" started-at="2021-05-24T12:45:50 IST" finished-at="2021-05-24T12:45:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:MayurMaven.MayursMavenProject.RestAPITest@1f554b06]" name="postJira" duration-ms="9" started-at="2021-05-24T12:45:50 IST" finished-at="2021-05-24T12:45:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- MayurMaven.MayursMavenProject.RestAPITest -->
+      <class name="MayurMaven.MayursMavenProject.AppiumTest">
+        <test-method status="PASS" signature="IOSApp()[pri:0, instance:MayurMaven.MayursMavenProject.AppiumTest@614ddd49]" name="IOSApp" duration-ms="1" started-at="2021-05-24T12:45:50 IST" finished-at="2021-05-24T12:45:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApp -->
+        <test-method status="PASS" signature="NativeAppAndroid()[pri:0, instance:MayurMaven.MayursMavenProject.AppiumTest@614ddd49]" name="NativeAppAndroid" duration-ms="1" started-at="2021-05-24T12:45:50 IST" finished-at="2021-05-24T12:45:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+      </class> <!-- MayurMaven.MayursMavenProject.AppiumTest -->
+      <class name="MayurMaven.MayursMavenProject.SeleniumTest">
+        <test-method status="PASS" signature="browswerAutomation()[pri:0, instance:MayurMaven.MayursMavenProject.SeleniumTest@7494e528]" name="browswerAutomation" duration-ms="17" started-at="2021-05-24T12:45:50 IST" finished-at="2021-05-24T12:45:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browswerAutomation -->
+        <test-method status="PASS" signature="elementUI()[pri:0, instance:MayurMaven.MayursMavenProject.SeleniumTest@7494e528]" name="elementUI" duration-ms="1" started-at="2021-05-24T12:45:50 IST" finished-at="2021-05-24T12:45:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementUI -->
+      </class> <!-- MayurMaven.MayursMavenProject.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
